@@ -2,7 +2,7 @@
   <img src="https://github.com/RahulSurana123/RahulSurana123/blob/main/Developer.gif" width="200px">
 </p>
 
-### Hi Everyone I am Rahul Surana Just another Programmer Here !
+### Hi Everyone I am Rahul Surana Just another Programmer Here ! <img src="https://github.com/RahulSurana123/RahulSurana123/blob/main/Developer.gif" width="40px">
 
 - 💻 I'm Currently working in Mavenir Systems Pvt Ltd as a MTS I.
 - 🎯 I’m focusing on Competitive Programming.
