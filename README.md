@@ -7,7 +7,7 @@
 - 💻 I'm Currently working in Mavenir Systems Pvt Ltd as a MTS I.
 - 🎯 I’m focusing on Competitive Programming.
 - 👀 [To Reach me on Instagram](https://www.instagram.com/4851_suru/)
-- 👀 [To Reach me on LinkedIn](https://www.linkedin.com/in/rahul-surana/)
+- 👔 [To Reach me on LinkedIn](https://www.linkedin.com/in/rahul-surana/)
 
 [![Hello programmer Welcome to my profile ](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/RahulSurana123)
 
