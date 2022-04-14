@@ -18,7 +18,7 @@
 </p> 
 
 ### :zap: Most used languages ❤️
-<p align="center">&nbsp;<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=RahulSurana123&layout=compact&hide=html&theme=dracula&hide_border=true"><br>
+<p align="center">&nbsp;<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=RahulSurana123&layout=compact&hide=html&theme=dracula&hide_border=true">
     <img src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RahulSurana123&theme=dracula" alt=""><br>
 </p>
 
