@@ -2,9 +2,16 @@
   <img src="https://github.com/RahulSurana123/RahulSurana123/blob/main/Developer.gif" width="200px">
 </p>
 
+
 ### Hi Everyone I am Rahul Surana Just another Programmer Here ! <img src="https://github.com/RahulSurana123/RahulSurana123/blob/main/Developer.gif" width="40px">
 
-- 💻 I'm Currently working in Mavenir Systems Pvt Ltd as a MTS I.
+<h3 align="center">Nice to meet ya</h3>
+<p align="center"><b>Visitor count</b></br>
+  <img src="https://profile-counter.glitch.me/RahulSurana123/count.svg" /></p>
+</p>
+
+
+- 💻 I have worked in Mavenir Systems Pvt Ltd as a MTS I for 1 years and 8 months and will be joining AMD soon on 6th june as a SSD 2.
 - 🎯 I’m focusing on Competitive Programming.
 - 👀 [To Reach me on Instagram](https://www.instagram.com/4851_suru/)
 - 👔 [To Reach me on LinkedIn](https://www.linkedin.com/in/rahul-surana/)
