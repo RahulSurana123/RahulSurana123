@@ -1,10 +1,10 @@
 <p align="center">
   <img src="https://github.com/RahulSurana123/RahulSurana123/blob/main/Developer.gif" width="200px">
 </p>
-
+<br>
 
 ### Hi Everyone I am Rahul Surana Just another Programmer Here ! 
-<img src="https://github.com/RahulSurana123/RahulSurana123/blob/main/Developer.gif" width="20px">
+<img src="https://github.com/RahulSurana123/RahulSurana123/blob/main/Developer.gif" width="20px" height="20px">
 <br>
 <h3 align="center">Nice to meet ya</h3>
 <p align="center"><b>Visitor count</b></br>
