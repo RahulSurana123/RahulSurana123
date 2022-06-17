@@ -2,6 +2,9 @@
   <style type="text/css">
           a {text-decoration: none; }
           div { padding-bottom: 4px;}
+         .filter-green{
+        filter: invert(48%) sepia(90%) saturate(647%) hue-rotate(210deg) brightness(118%) contrast(119%);
+    }
   </style>
 <p align="center">
   <img src="https://github.com/RahulSurana123/RahulSurana123/blob/main/Developer.gif" width="200px">
@@ -20,9 +23,9 @@
 - 💻 I have worked in Mavenir Systems Pvt Ltd as a MTS I for 1 years and 8 months and will be joining AMD soon on 6th june as a SSD 2.
 - 🎯 I’m focusing on Competitive Programming.
  <div></div>
-- [<img src="https://www.svgrepo.com/show/13639/instagram.svg" intrinsicsize="512 x 512" srcset="https://www.svgrepo.com/show/13639/instagram.svg 4x" alt="Instagram SVG Vector" title="Instagram SVG Vector" align = "center" width="20px">&nbsp;&nbsp;&nbsp; To Reach me on Instagram](https://www.instagram.com/4851_suru/)
+- [ <img src="https://www.svgrepo.com/show/13639/instagram.svg" intrinsicsize="512 x 512" srcset="https://www.svgrepo.com/show/13639/instagram.svg 4x" alt="Instagram SVG Vector" title="Instagram SVG Vector" align = "center" width="20px">&nbsp;&nbsp;&nbsp; To Reach me on Instagram](https://www.instagram.com/4851_suru/)
 <div></div>
-- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20px" align = "center"/> &nbsp;&nbsp;&nbsp; To Reach me on LinkedIn](https://www.linkedin.com/in/rahul-surana/)
+- [ <img class ="filter-green" src="https://icongr.am/devicon/github-original.svg" width="20px" style="fill:purple;" align = "center"/>&nbsp;&nbsp;&nbsp; To Reach me on LinkedIn](https://www.linkedin.com/in/rahul-surana/)
 
 [![Hello programmer Welcome to my profile ](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/RahulSurana123)
 
@@ -34,8 +37,8 @@
 
 ### :zap: languages & Tech Stacks ❤️
 <p align="center">&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width = "40px"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" width = "40px"/>
+      <img class ="filter-green" src="https://icongr.am/devicon/github-original.svg" width="40px" style="fill:purple;"/>
+      <img class ="filter-green" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" width = "40px"/>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" width = "40px"/>
      <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ logo" width = "40px">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width = "40px"/>
