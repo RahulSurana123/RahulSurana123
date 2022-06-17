@@ -31,7 +31,7 @@
 ### :zap: languages & Tech Stacks ❤️
 <p align="center">&nbsp;
       <img class ="filter-green" src="./github-logo.svg" width="40px"/>
-      <img class ="filter-green" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" width = "40px"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width = "40px"/>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" width = "40px"/>
      <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ logo" width = "40px">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width = "40px"/>
