@@ -1,7 +1,8 @@
 
-<style type="text/css">
-        a {text-decoration: none; }
-</style>
+  <style type="text/css">
+          a {text-decoration: none; }
+          div { padding-bottom: 4px;}
+  </style>
 <p align="center">
   <img src="https://github.com/RahulSurana123/RahulSurana123/blob/main/Developer.gif" width="200px">
 </p>
@@ -18,8 +19,10 @@
 
 - 💻 I have worked in Mavenir Systems Pvt Ltd as a MTS I for 1 years and 8 months and will be joining AMD soon on 6th june as a SSD 2.
 - 🎯 I’m focusing on Competitive Programming.
-- 👀 &nbsp;&nbsp;&nbsp; [<img src="https://cdn.iconscout.com/icon/free/png-256/instagram-1464521-1239436.png" srcset="https://cdn.iconscout.com/icon/free/png-512/instagram-1464521-1239436.png 2x" alt="Instagram Icon" width="30px">&nbsp;&nbsp;&nbsp; To Reach me on Instagram](https://www.instagram.com/4851_suru/)
-- 👔&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="30px" /> &nbsp;&nbsp;&nbsp; To Reach me on LinkedIn](https://www.linkedin.com/in/rahul-surana/)
+ <div></div>
+- [<img src="https://www.svgrepo.com/show/13639/instagram.svg" intrinsicsize="512 x 512" srcset="https://www.svgrepo.com/show/13639/instagram.svg 4x" alt="Instagram SVG Vector" title="Instagram SVG Vector" align = "center" width="20px">&nbsp;&nbsp;&nbsp; To Reach me on Instagram](https://www.instagram.com/4851_suru/)
+<div></div>
+- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20px" align = "center"/> &nbsp;&nbsp;&nbsp; To Reach me on LinkedIn](https://www.linkedin.com/in/rahul-surana/)
 
 [![Hello programmer Welcome to my profile ](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/RahulSurana123)
 
