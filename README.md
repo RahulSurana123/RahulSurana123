@@ -1,11 +1,12 @@
 
-  <style type="text/css">
-          a {text-decoration: none; }
-          div { padding-bottom: 4px;}
-         .filter-green{
+<style type="text/css">
+    a {text-decoration: none; }
+    div { padding-bottom: 4px;}
+    .filter-green{
         filter: invert(48%) sepia(90%) saturate(647%) hue-rotate(210deg) brightness(118%) contrast(119%);
     }
-  </style>
+</style>
+
 <p align="center">
   <img src="https://github.com/RahulSurana123/RahulSurana123/blob/main/Developer.gif" width="200px">
 </p>
