@@ -16,11 +16,13 @@
 <li> 💻 I have worked in Mavenir Systems Pvt Ltd as a MTS I for 1 years and 8 months and will be joining AMD soon on 6th june as a SSD 2.
 <li> 🎯 I’m focusing on Competitive Programming.
  <div style = "padding-bottom: 4px;"></div>
-<li> <img src="https://www.svgrepo.com/show/13639/instagram.svg" intrinsicsize="512 x 512" srcset="https://www.svgrepo.com/show/13639/instagram.svg 4x" alt="Instagram SVG Vector" title="Instagram SVG Vector" align = "center" width="20px">[ To Reach me on Instagram](https://www.instagram.com/4851_suru/)
+<li> <img src="https://www.svgrepo.com/show/13639/instagram.svg" intrinsicsize="512 x 512" srcset="https://www.svgrepo.com/show/13639/instagram.svg 4x" alt="Instagram SVG Vector" title="Instagram SVG Vector" align = "center" width="20px"><a href = "https://www.instagram.com/4851_suru/">   To Reach me on Instagram</a>
 <div style = "padding-bottom: 4px;"></div>
-<li> <img src="./github-logo.svg" width="20px" align = "center"/>[ To Reach me on LinkedIn](https://www.linkedin.com/in/rahul-surana/)
+<li> <img src="./github-logo.svg" width="20px" align = "center"/> <a href="https://www.linkedin.com/in/rahul-surana/">
+  To Reach me on LinkedIn</a>
 </ul>
-[![Hello programmer Welcome to my profile ](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/RahulSurana123)
+
+[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/RahulSurana123)
 
 
 ### :zap: GitHub Trophies 🏆
