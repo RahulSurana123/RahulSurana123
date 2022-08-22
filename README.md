@@ -12,6 +12,10 @@
 <p align="center"><b>Visitor count</b></br>
   <img src="https://profile-counter.glitch.me/RahulSurana123/count.svg" /></p>
 </p>
+
+ [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/RahulSurana123)  [![Github](https://img.shields.io/github/followers/RahulSurana123?label=Follow&style=social)](https://github.com/RahulSurana123)
+
+
 <ul>
 <li> 💻 I have worked in Mavenir Systems Pvt Ltd as a MTS I for 1 years and 8 months and will be joining AMD soon on 6th june as a SSD 2.
 <li> 🎯 I’m focusing on Competitive Programming.
@@ -22,7 +26,7 @@
   To Reach me on LinkedIn</a>
 </ul>
 
-[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/RahulSurana123)
+
 
 
 ### :zap: GitHub Trophies 🏆
@@ -49,8 +53,17 @@
 </p>
 
 ### :zap: GitHub Stats
+
 <p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RahulSurana123&show_icons=true&hide_border=true&show_owner=true&title_color=FF00FF&theme=dark&custom_title=My Github Stats &layout=compact" /><br><br>
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 40%;
+           align: center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulSurana123&theme=dracula&hide_border=true&layout=compact" 
+    alt="Top Lang">
+</img><br><br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RahulSurana123&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahulSurana123&theme=dracula" />
 </p>
