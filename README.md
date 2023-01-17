@@ -61,7 +61,7 @@
            margin-right: auto;
            width: 40%;
            align: center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulSurana123&theme=dracula&hide_border=true&layout=compact" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RahulSurana123&theme=dracula&hide_border=true&layout=compact&PAT_1" 
     alt="Top Lang">
 </img><br><br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RahulSurana123&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
