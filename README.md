@@ -17,7 +17,7 @@
 
 
 <ul>
-<li> 💻 I have worked in Mavenir Systems Pvt Ltd and AMD as Software Engineer for close to 4 year now.
+<li> 💻 Currently working in Google as SAE and I have worked in Mavenir Systems Pvt Ltd and AMD as Software Engineer for close to 4 year now.
 <li> 🎯 I’m focusing on Competitive Programming and new Tech-Stacks.
  <div style = "padding-bottom: 4px;"></div>
 <li> <img src="https://www.svgrepo.com/show/13639/instagram.svg" intrinsicsize="512 x 512" srcset="https://www.svgrepo.com/show/13639/instagram.svg 4x" alt="Instagram SVG Vector" title="Instagram SVG Vector" align = "center" width="20px"><a href = "https://www.instagram.com/4851_suru/">   To Reach me on Instagram</a>
