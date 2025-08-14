@@ -17,7 +17,7 @@
 
 
 <ul>
-<li> 💻 Currently working in Google as SWE and I have worked in Mavenir Systems Pvt Ltd and AMD as Software Engineer for close to 4 year now.
+<li> 💻 Currently working in Google as SWE and I have worked in Mavenir Systems Pvt Ltd and AMD as Software Engineer for close to 5 year now.
 <li> 🎯 I’m focusing on Competitive Programming and new Tech-Stacks.
 <li> 🎯 Open Source contribution to aocl-sparse an optimized library to perform multiple operation on sparse matrices.
  <div style = "padding-bottom: 4px;"></div>
